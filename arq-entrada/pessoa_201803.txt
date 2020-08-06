@@ -1,0 +1,6 @@
+Codigo;id;Nome;Area;data_carga
+1;1;Joh;Sales;01-03-2018
+2;2;Mary;Sales;01-03-2018
+3;3;Crab;Production;01-03-2018
+4;4;Cess;Engenering;01-03-2018
+4;5;Bear;Engenering;01-03-2018
